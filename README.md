@@ -1,3 +1,6 @@
+![image](https://github.com/mcaro01/Home_Sales/assets/125619215/8babf4fc-4c51-47a2-a9ba-39fc8dea7677)
+
+
 # Home_Sales
 
 ### Instructions
